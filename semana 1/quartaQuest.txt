@@ -1,0 +1,9 @@
+Sistema de previsão de preço de ações na bolsa de valores - 
+    Este tipo de sistema preditivo usa como base machine learning para tratar os dados da 
+    bolsa para gerar uma informação sobre possível VALOR das ações, 
+    logo é um problema de regressão.
+
+Autenticação por íris  -
+    a Autenticação por íris  é um problema de classificação,
+    os atributos são as imagens da íris do usuário
+    que são analisadas gerando uma saída de correspondência ou não com o usuário 

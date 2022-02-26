@@ -1,0 +1,7 @@
+1- recall
+
+2-precisão(como o que é avaliado é a classe positiva do spam), se fosse para tendencionar para não span. seria recall
+
+3- recall
+
+4- precisão

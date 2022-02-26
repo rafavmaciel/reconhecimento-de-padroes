@@ -1,0 +1,3 @@
+Aplicação: Concessão ou não de empréstimo bancário 
+• Entrada:dados de clientes do banco , como salário, pagamento ou não de empréstimos passados , idade ...  .
+• Saída: classificação através do resultado positivo ou negativo para a concessão de empréstimo 

@@ -1,0 +1,5 @@
+1 - Recomendação de filmes/series em serviços de streaming
+2 - Ordenação de posts no instagram
+3 - detecção de diferentes objetos pela camera do celular 
+.....
+ 

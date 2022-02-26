@@ -1,0 +1,22 @@
+conjunto de regras
+
+. se x1 == x2 então A
+. se  (x1+x2) mod2 == 0 então A
+. se (x1+x2) mod2 != 0 então B
+
+
+X1   X2  Y   previsão
+1    2   A      B
+3    4   A      B
+5    6   A      B
+7    7   A      A
+9    6   A      B
+11   4   A      B
+2    1   B      B
+4    2   B      A
+6    4   B      A
+9    4   B      A
+11   2   B      B
+
+
+Acertos : 3
